@@ -10,6 +10,16 @@ I'm a software engineer with 3 years of frontend experience and a recent Hack Re
 - 🏃🏾‍♀️ Fun fact: I'm a newbie runner, and currently training for a marathon!
 
 #Reach Out
+<br />
+<p align="left">
+ <a href="https://www.linkedin.com/in/mallory-burke/" target="_blank" rel="noopener noreferrer"> 
+  <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' align='left' />
+ </a>
+ <a href="mailto:malloryburke@gmail.com"> 
+  <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' align='left' />
+ </a>
+</p>
+<br />
 
 # Languages & Tools
 <p align="center">
