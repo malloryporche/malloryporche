@@ -5,6 +5,9 @@
 - 💬 Ask me about anything, I love talking about all things code related.
 - 😄 Pronouns: she/her
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmalloryporche&label=VISITORS&labelColor=%23697689&countColor=%23263759&style=flat-square&labelStyle=upper)
+
+<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/t/malloryporche/:repo">
 <!--
 **malloryporche/malloryporche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
