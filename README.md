@@ -28,8 +28,6 @@ I'm a software engineer with 3 years of frontend experience and a recent Hack Re
   </a>
 </p>
 
-![Mallory's GitHub stats](https://github-readme-stats.vercel.app/api?username=malloryporche&show_icons=true&theme=transparent) 
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=malloryporche&show_icons=true&theme=transparent" />
 </a>
