@@ -17,7 +17,8 @@ I'm a software engineer with 3 years of frontend experience and a recent Hack Re
     <img src="https://skillicons.dev/icons?i=js,html,css,express,react,git,mongodb,mysql,nextjs,nginx,nodejs,tailwind,vercel,vscode&theme=dark&perline=7" />
   </a>
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malloryporche)](https://github.com/malloryporche/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malloryporche)](https://github.com/malloryporche/github-readme-stats)
 <!--
 **malloryporche/malloryporche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
