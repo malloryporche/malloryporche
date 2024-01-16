@@ -18,7 +18,7 @@ I'm a software engineer with 3 years of frontend experience and a recent Hack Re
   </a>
 </p>
 
-![Mallory's GitHub stats](https://github-readme-stats.vercel.app/api?username=malloryporche&show_icons=true&theme=onedark)
+![Mallory's GitHub stats](https://github-readme-stats.vercel.app/api?username=malloryporche&show_icons=true&theme=dark)
 <!--
 **malloryporche/malloryporche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
