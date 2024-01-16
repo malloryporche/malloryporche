@@ -27,7 +27,7 @@ I'm a software engineer with 3 years of frontend experience and a recent Hack Re
     <img src="https://skillicons.dev/icons?i=js,html,css,express,react,git,mongodb,mysql,nextjs,nginx,nodejs,tailwind,vercel,vscode&theme=dark&perline=7" />
   </a>
 </p>
-<br>
+
 ![Mallory's GitHub stats](https://github-readme-stats.vercel.app/api?username=malloryporche&show_icons=true&theme=transparent) 
 
 
