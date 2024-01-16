@@ -14,7 +14,7 @@ I'm a software engineer with 3 years of frontend experience and a recent Hack Re
 # Languages & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,express,react,git,mongodb,mysql,nextjs,nginx,nodejs,tailwind,vercel,vscode&theme=transparent&perline=7" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,express,react,git,mongodb,mysql,nextjs,nginx,nodejs,tailwind,vercel,vscode&theme=dark&perline=7" />
   </a>
 </p>
 
