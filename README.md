@@ -5,7 +5,7 @@
 I'm a software engineer with 3 years of frontend experience and a recent Hack Reactor graduate. Eager to expand my skill set and delve into full-stack development within a collaborative and established team. Outside of coding, you'll find me experimenting in the kitchen or spending time in nature whenever possible. Known for resilience and a persistent drive to overcome challenges. I love to chat and discuss all things development, devOps, and optimization...don't hesitate to reach out!
 
 - 🗺️ I’m currently working on taking my MVP (scavenger hunt app) to the next level.
-- 🌱 I’m currently doubling down on getting deep understanding of DSA.
+- 🌱 I’m doubling down on getting deep understanding of DSA.
 - 💬 Ask me about anything, I love talking about all things code related.
 - 🏃🏾‍♀️ Fun fact: I'm a newbie runner, and currently training for a marathon!
 
